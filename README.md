@@ -1,4 +1,4 @@
-<h1> make your burger <h1>
+<h1> Make your burger <h1>
 <h2 align="center">Tópicos 📋</h2>
 
    <p>
