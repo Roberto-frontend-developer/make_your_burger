@@ -15,7 +15,7 @@
    The Make your burger project, developed with Vue.js and Json server to simulate a database on the backend, is an application designed to manage hamburger orders.
 </p> 
 
-<h2 align="center">Layout Home 🎨</h2>
+<h2 align="center">Layout 🎨</h2>
 
 <p align="center">
   <img alt="Make you burger" src=".github/make_your_burger.png" >
